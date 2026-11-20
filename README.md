@@ -105,7 +105,7 @@ Every time you want to import new applicants or sync updates from a fresh Jotfor
 
 1. Open **Terminal** and go to your project folder:
    ```bash
-   cd ~/Desktop/[INSERT_REPO_FOLDER_NAME]
+   cd ~/Desktop/waidf_trello_app
    ```
 2. Activate the virtual environment (you'll see `(venv)` appear):
    ```bash
