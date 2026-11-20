@@ -1,0 +1,16 @@
+Application Link: {{ link }}
+Email: {{ email }}
+Pronouns: {{ pronouns }}
+Cellphone: {{ cellphone }}
+
+Personal Statement
+
+{{ personal }}
+
+How do you stay civically engaged with your community?
+
+{{ civically }}
+
+How do you work to advance equity in your professional, volunteer, or personal life?
+
+{{ equity }}
