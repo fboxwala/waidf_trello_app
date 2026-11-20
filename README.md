@@ -92,7 +92,7 @@ You should now see `(venv)` at the beginning of your Terminal prompt.
 
 ## Part 3: Get Your Trello API Key & Token
 
-1. Open the private **[WAIDF Trello API Credentials Google Doc]([INSERT_PRIVATE_GOOGLE_DOC_LINK])**.
+1. Open the private **[WAIDF Trello API Credentials Google Doc](https://docs.google.com/document/d/1g7MCm6X1njoW1sfOXG8B4tScL8kON84IwDY-w9sGITs/edit?tab=t.0)**.
 2. Copy the **Trello API Key** listed in the document.
 3. Click the **Generate Trello Token** link in the document, scroll to the bottom, and click **Allow**.
 4. Copy the long token string (it starts with `ATTA...`). Keep it private—it acts like a password for your Trello account.
