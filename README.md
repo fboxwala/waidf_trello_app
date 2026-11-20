@@ -62,7 +62,7 @@ You only need to do this section **once** on your computer. All commands below a
 ### 1. Install Homebrew (a tool for installing developer software)
 Copy and paste this into Terminal and press `Enter`:
 ```bash
-/bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 When it finishes, look at the last few lines under **"Next steps:"** in Terminal. If it gives you two commands to add Homebrew to your `PATH`, copy and run those too.
 
@@ -75,8 +75,8 @@ brew install git python
 Choose where you want the folder to live (for example, your Desktop), then download the repository:
 ```bash
 cd ~/Desktop
-git clone [INSERT_PUBLIC_GIT_REPO_URL]
-cd [INSERT_REPO_FOLDER_NAME]
+git clone https://github.com/fboxwala/waidf_trello_app.git
+cd waidf_trello_app
 ```
 
 ### 4. Create a Virtual Environment & Install Required Packages
